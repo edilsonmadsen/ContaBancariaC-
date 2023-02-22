@@ -1,0 +1,16 @@
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleTeste.csproj.AssemblyReference.cache
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleTeste.AssemblyInfoInputs.cache
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleTeste.AssemblyInfo.cs
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleTeste.csproj.CoreCompileInputs.cache
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleTeste.exe
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleTeste.deps.json
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleTeste.runtimeconfig.json
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleTeste.runtimeconfig.dev.json
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleTeste.dll
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleTeste.dll
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleTeste.pdb
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleTeste.dll
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleTeste.dll
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleTeste.pdb
+C:\Users\Madsen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleTeste.genruntimeconfig.cache
