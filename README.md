@@ -1,4 +1,4 @@
-# Conta Bancaria em C#
+# Transações Bancárias em C#
 
 Conta Bancaria em C# com transações simples de depósitos e saques.
 
