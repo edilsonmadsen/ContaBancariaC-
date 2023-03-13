@@ -12,7 +12,7 @@ ContaBancariaC-/ConsoleApp1/bin/Debug/net5.0/ConsoleTeste.exe
 
 ## 🛠️ Construído com as seguintes linguagens e frameworks:
 
-* C#
+C#
 
 ## ✒️ Autor
 
